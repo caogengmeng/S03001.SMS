@@ -1,0 +1,7 @@
+{
+  "apollo": {
+    "AppId": "03001",
+    "MetaServer": "http://10.50.132.69:8080",
+    "Namespace": "0001.BaseConfig|application"
+  }
+}
